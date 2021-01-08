@@ -1,5 +1,5 @@
 # Calculo-de-disputa
-Trabalho feito para fazer calculos de disputas de arremeços e notas //trabalho de faculdade
+Trabalho feito para fazer calculos de disputas de arremeços e notas ,trabalho de faculdade
 
     #include <stdio.h>
     #include <stdlib.h>
